@@ -1,5 +1,4 @@
-﻿Process Parameter Data and Test Results*,,,,,,,,,,,
-Sample,var 1,var 2,var 3,var 4,var 5,var 6,var 7,var 8,var 9,Test Result,Outcome
+﻿Sample,var 1,var 2,var 3,var 4,var 5,var 6,var 7,var 8,var 9,Test Result,Outcome
 1,0.653573407,258.8550371,22.99982572,1,71,1.240224,2,21.47230794,-0.40501,TRUE,1
 2,0.57601108,270.8897118,23.7480593,1,76,1.175028,3,21.12343074,0.611585,FALSE,0
 3,0.657728532,281.4795531,24.91402673,2,81,1.177164,1,19.48336484,1.054139,FALSE,0
